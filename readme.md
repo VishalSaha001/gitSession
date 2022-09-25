@@ -12,3 +12,5 @@ Gives one line report of the commits.
 
 - git log --graph
 
+Gives information about the merging of branchs.
+
