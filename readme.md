@@ -14,5 +14,4 @@ Gives one line report of the commits.
 
 Gives information about the merging of branchs.
 
-Vishal
-
+- git checkout `<commit hash>`
